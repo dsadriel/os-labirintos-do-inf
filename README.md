@@ -1,10 +1,12 @@
-# Trabalho Prático Final - Semestre 2023/1
-
-Professores: Dennis Giovani Balreira e Santiago Valdes Ravelo
-
 # Os Labirintos do INF
+**Autores:** Adriel de Souza e João Pedro Müller Alvarenga
 
-Inspirado no jogo "Laberinto del Saber", jogo criado em Havana/Cuba no ano 1988 e relançado em 2013 como "Maze of Knowledge", Os Labirintos do INF é um jogo educativo que mistura elementos de labirinto e quiz. O jogador deve encontrar a saída do labirinto antes do tempo acabar e responder perguntas feitas pelos NPCs para obter créditos necessários para prosseguir.
+**Orientadores:** Dennis Giovani Balreira e Santiago Valdes Ravelo
+
+----
+Inspirado no jogo **"Laberinto del Saber"**, jogo criado em Havana/Cuba no ano 1988 e relançado em 2013 como "Maze of Knowledge", Os Labirintos do INF **é um jogo educativo que mistura elementos de labirinto e quiz**. O jogador deve encontrar a saída do labirinto antes do tempo acabar e responder perguntas feitas pelos NPCs para obter créditos necessários para prosseguir.
+
+![labirinto.png](/.github/labirinto.png)
 
 A iniciar um novo labirinto, seja por iniciar um novo jogo ou avançar o nível, o labirinto é carregado e populado automaticamente com bombas, relógios, vidas, créditos, colegas e professores:
 
